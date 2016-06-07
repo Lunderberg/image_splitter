@@ -1,0 +1,3 @@
+[submodule "autocrop"]
+	path = autocrop
+	url = https://github.com/msaavedra/autocrop.git
